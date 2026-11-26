@@ -1,0 +1,9 @@
+{
+  "schema": "works-by-us.problem.v1",
+  "id": "hodge-conjecture",
+  "repository": "https://github.com/jpgordon00/ci-hodge-conjecture",
+  "hub": "https://github.com/jpgordon00/works-by-us",
+  "problem": "https://works-by-us.jacob-gordon255689.chatgpt.site/problems/hodge-conjecture/",
+  "mcp": "https://works-by-us.jacob-gordon255689.chatgpt.site/api/mcp/projects/hodge-conjecture",
+  "catalog_commit": "71c3eaf85a898f102d915836adf9ad449134e110"
+}
